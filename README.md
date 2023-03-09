@@ -1,4 +1,4 @@
-# The-audio-benchmark
+# Speech SSL Benchmarking
 
 This repository contains the code used to generate the results presented in the paper entitled : "Speech Self-Supervised Representation Benchmarking:Are We Doing it Right?". The paper reports the results of several experiments that were conducted using specific datasets. 
 

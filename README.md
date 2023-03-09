@@ -1,6 +1,10 @@
 # The-audio-benchmark
 
-This repository contains the code used to generate the results presented in the paper entitled : "Speech Self-Supervised Representation Benchmarking:Are We Doing it Right?". The paper reports the results of several experiments that were conducted using specific datasets. The code contained in this repository was used to preprocess the data, train the models, and generate tables that are presented in the paper. The code relevant to our work is contained in the folder "speechbrain-develop/SSL\_benchmark/"
+This repository contains the code used to generate the results presented in the paper entitled : "Speech Self-Supervised Representation Benchmarking:Are We Doing it Right?". The paper reports the results of several experiments that were conducted using specific datasets. 
+
+The code contained in this repository was used to preprocess the data, train the models, and generate tables that are presented in the paper. The code relevant to our work is contained in the folder "speechbrain-develop/SSL\_benchmark/"
+
+
 We tried to remove any name in the SSL files, but if you happen to find an author list in one of the training files, be aware it is not linked to the authors of the paper as it is the name of the authors of the original SpeechBrain recipes we started from.
 
 
